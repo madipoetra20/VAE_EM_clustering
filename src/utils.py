@@ -59,7 +59,6 @@ def get_data(n_classes, dataset="MNIST"):
         digits = numbers  # Use all digits
     else:
         digits = random.sample(numbers, n_classes)
-    # digits = [0,9]
     print(f"Selected digits: {digits}", flush=True)
 
     # Filter data for selected digits

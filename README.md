@@ -31,4 +31,4 @@ We would like to thank the author of https://github.com/GuHongyang/VaDE-pytorch 
 Below is an example command for running the script:
 
 ```bash
-python3 main.py --file_path mnist_final_1 --lambd_rec 1 --dropout_prob 0.2 --latent_dim 20 --batch_size 256 --VAE_epoch 20 --learning_rate 0.001  --BatchNorm False --Dropout True --dataset MNIST --loss MSE --n_class 10
+python3 main.py --file_path mnist_run_1 --lambd_rec 1 --dropout_prob 0.2 --latent_dim 20 --batch_size 256 --VAE_epoch 20 --learning_rate 0.001  --BatchNorm False --Dropout True --dataset MNIST --loss MSE --n_class 10
