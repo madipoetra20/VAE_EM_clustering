@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contains the code for the paper "Deep Generative Clustering with VAEs and Expectation-Maximization".
+This repo contains the code for the paper [Deep Generative Clustering with VAEs and Expectation-Maximization](https://arxiv.org/abs/2501.07358).
 
 ## Acknowledgements
 
